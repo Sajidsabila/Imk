@@ -1,0 +1,28 @@
+.landing-page{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    background: yellowgreen;
+}
+
+
+.gambar{
+    width: 500px;
+    height: 500px;
+    background: brown;
+    border-radius: 100%;
+    display: flex;
+    position: right;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.diskon{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 30px;
+    align-items: center;
+    padding-top: 100px;
+}
